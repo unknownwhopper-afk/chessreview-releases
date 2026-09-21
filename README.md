@@ -1,7 +1,7 @@
 # ChessReview release source and documentation
 
 Public Android release source snapshots and support/privacy documentation for
-ChessReview, operated by Ahmed Laftit. Support: chessreviewsupport@gmail.com.
+ChessReview. Support: chessreviewsupport@gmail.com.
 
 Application source is GPL-3.0-or-later. Components retain their own licences;
 the source ZIP includes complete notices and build instructions. Source archives
